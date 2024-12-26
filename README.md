@@ -19,7 +19,7 @@ xeggex_settings.json format:
 >>> x = XeggeXClient()
 >>> await x.get_assets()
 ```
-### Using private methods,  ([xeggegs_settings.json](#settings) required)
+### Using private methods,  ([xeggex_settings.json](#settings) required)
 ```
 >>> from xeggex import XeggeXClient
 >>> x = XeggeXClient()
